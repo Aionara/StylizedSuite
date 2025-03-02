@@ -43,8 +43,7 @@
 ### 添加效果相关
 - 添加需要空物体(Empty)的特效时，空物体会自动选中，必要时需手动缩放。  
 - 添加效果时请确保处于**物体模式(Object Mode)**。  
-- 烘焙动画用于导出前，点击**Save & Export Frames**前请先保存.blend文件。  
-- 动画制作建议参考官方视频教程中的动画部分。  
+- 烘焙动画用于导出前，点击**Save & Export Frames**前请先保存.blend文件。   
 
 ### 重要说明
 - Blender 4.2及以上版本中，**Alpha Blend/Alpha Hashed**已更名为**Blended/Dithered**。  
